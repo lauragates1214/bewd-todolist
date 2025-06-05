@@ -1,31 +1,26 @@
 # Task Management Interface
 
-A clean, responsive task management application demonstrating modern JavaScript DOM manipulation and local state management.
-
-## Technical Implementation
-
-Vanilla JavaScript application showcasing fundamental web development concepts including dynamic DOM updates, event handling, and user interface patterns.
+Basic task management application built with vanilla JavaScript, demonstrating DOM manipulation and event handling.
 
 ## Features
 
-- **Task Creation:** Add new tasks with real-time interface updates
-- **Task Management:** Mark tasks complete/incomplete with visual feedback
-- **Task Organisation:** Delete and filter tasks by completion status
-- **Responsive Design:** Mobile-friendly interface with CSS Grid/Flexbox
+- Add new tasks with form input
+- Mark tasks as complete/incomplete with visual feedback
+- Delete tasks from the list
+- Filter tasks by completion status
+- Responsive layout for mobile and desktop
 
-## Technical Highlights
+## Technical Implementation
 
-**JavaScript:** Pure vanilla JavaScript for DOM manipulation and event handling
-**State Management:** Client-side data persistence and state synchronisation
-**UI/UX:** Intuitive interface design with immediate visual feedback
-**Accessibility:** Keyboard navigation and screen reader compatibility
+**JavaScript:** Vanilla JavaScript for DOM manipulation and event handling
+**CSS:** Responsive design using Flexbox
+**State Management:** Client-side task storage and display updates
+**User Interface:** Clean, functional design with immediate feedback
 
 ## Key Concepts Demonstrated
 
-- Modern JavaScript ES6+ features and best practices
+- JavaScript DOM manipulation without frameworks
 - Event-driven programming patterns
-- DOM manipulation without framework dependencies
 - CSS layout techniques for responsive design
-- Progressive enhancement principles
-
-This project demonstrates solid foundation skills in vanilla web technologies and user interface development patterns.
+- Basic state management in vanilla JavaScript
+- Form handling and input validation
