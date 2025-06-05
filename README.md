@@ -12,10 +12,10 @@ Basic task management application built with vanilla JavaScript, demonstrating D
 
 ## Technical Implementation
 
-**JavaScript:** Vanilla JavaScript for DOM manipulation and event handling
-**CSS:** Responsive design using Flexbox
-**State Management:** Client-side task storage and display updates
-**User Interface:** Clean, functional design with immediate feedback
+- **JavaScript:** Vanilla JavaScript for DOM manipulation and event handling
+- **CSS:** Responsive design using Flexbox
+- **State Management:** Client-side task storage and display updates
+- **User Interface:** Clean, functional design with immediate feedback
 
 ## Key Concepts Demonstrated
 
